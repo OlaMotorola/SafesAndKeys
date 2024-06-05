@@ -29,9 +29,9 @@ Algorytm:
 
 Do testów zostały użyte następujące grafy:
 <div style="white-space: nowrap;">
-  <img src="https://github.com/OlaMotorola/SafesAndKeys/assets/84777172/680fcd46-e54d-46e4-b2fe-f1c932854a24" height="180">
-  <img src="https://github.com/OlaMotorola/SafesAndKeys/assets/84777172/ebf86578-c535-461c-9e60-dc13574d1da0" height="180">
-  <img src="https://github.com/OlaMotorola/SafesAndKeys/assets/84777172/425a0f2a-5e8a-4055-b2a7-cc07efba0b68" height="180">
+  <img src="https://github.com/OlaMotorola/SafesAndKeys/assets/84777172/680fcd46-e54d-46e4-b2fe-f1c932854a24" height="150">
+  <img src="https://github.com/OlaMotorola/SafesAndKeys/assets/84777172/ebf86578-c535-461c-9e60-dc13574d1da0" height="150">
+  <img src="https://github.com/OlaMotorola/SafesAndKeys/assets/84777172/425a0f2a-5e8a-4055-b2a7-cc07efba0b68" height="150">
 </div>
 
 <h3>Autor: Aleksandra Zając</h3>
